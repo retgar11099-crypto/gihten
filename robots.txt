@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lich.protocold7.ru/sitemap.xml
